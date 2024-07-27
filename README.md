@@ -2,7 +2,7 @@
 
 ## 🔧 Technologies and tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCarniel1&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCarniel1&layout=compact)
 
 ### Languages
 [<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>](https://developer.mozilla.org/en-US/docs/Web/HTML) 
@@ -22,4 +22,4 @@
 [<img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>](https://www.mysql.com/)
 
 ## 📈 Github Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HenriqueCarniel1&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HenriqueCarniel1)
