@@ -17,6 +17,7 @@
 [<img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>](https://redux.js.org/)
 [<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>](https://tailwindcss.com/)
 <img alt="React Native" src="https://img.shields.io/badge/react%20native-007ACC?style=for-the-badge&logo=react&logoColor=white"/>
+[<img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white"/>](https://vuejs.org/)
 
 ### Databases
 [<img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>](https://www.mysql.com/)
