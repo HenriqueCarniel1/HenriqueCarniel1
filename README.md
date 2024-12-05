@@ -2,7 +2,7 @@
 
 ## 🔧 Technologies and tools
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueCarniel1&layout=compact&theme=dracula)
 
 ### Languages
 [<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>](https://developer.mozilla.org/en-US/docs/Web/HTML) 
